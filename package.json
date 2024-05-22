@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "braces": "3.0.2",
+    "braces": "3.0.3",
     "expo": "^35.0.0",
     "react": "16.10.2",
     "react-dom": "16.10.2",
